@@ -1,0 +1,77 @@
+#rodape{
+    color: white;
+    background-color: rgb(25, 135, 84);
+    font-size: 12px;
+    padding-left: 5px;
+    
+}
+#divvoltar{
+    text-align: center;
+    margin: 10px;
+}
+#voltar{
+    border-radius: 15px;
+    border: 2px solid grey;
+    background-color: rgb(25, 135, 84);
+    color: white;
+    padding: 2px;
+    font-size: 18px;
+    text-decoration: none;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+#indisponivel{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#textoCor{
+    color:white;
+    font-size: 18px;
+    padding: 6px;
+}
+.conteudoPagina{
+    padding: 8px;
+}
+#apresentacao{
+    font-size: 18px;
+    font-weight: bold;
+}
+.divApresentacao{
+    padding: 10px;
+    text-align: center;
+}
+#fotoGermano{
+    width: 150px; 
+    height: 150px;
+    border-radius: 10px;
+}
+#textoApresentacao{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#texto20{
+    font-size: 15px;
+    text-align: center;
+}
+#trimestres{
+    padding: 15px;
+}
+.menu{
+    width: 180px;
+    height: 180;
+}
+#tituloConteudo{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
