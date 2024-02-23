@@ -5,6 +5,10 @@
     padding-left: 5px;
     
 }
+#fotoLogoIF{
+    width: 100px;
+    height: 100px;
+}
 #divvoltar{
     text-align: center;
     margin: 10px;
@@ -67,11 +71,29 @@
 }
 .menu{
     width: 180px;
-    height: 180;
+    height: 180px;
 }
 #tituloConteudo{
-    font-size: 22px;
+    font-size: 25px;
+    background-color: rgb(13, 226, 5);
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
+}
+#SubTitulo{
+    font-size: 22px;
+    color: green;
+    font-weight: bold;
+}
+.texto{
+    margin-left: 4%;
+}
+#referencia{
+    font-size: 10px;
+    font-weight: bold;
+    color: black;
+}
+img{
+    height: 100%;
+    width: 100%;
 }
