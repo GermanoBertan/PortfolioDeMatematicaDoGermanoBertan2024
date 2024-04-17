@@ -73,6 +73,10 @@
     width: 180px;
     height: 180px;
 }
+.menu2{
+    width: 80px;
+    heigth: 80px;
+}
 #tituloConteudo{
     font-size: 25px;
     background-color: rgb(13, 226, 5);
