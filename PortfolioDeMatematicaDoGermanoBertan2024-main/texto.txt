@@ -1,0 +1,23 @@
+DIV DO CONTEUDO DA PAGINA
+    <div class="conteudoPagina">
+    </div>
+
+TITULO DO CONTEUDO
+    <h1 id="tituloConteudo"> TITULO </h1>
+
+SUBTITULO
+    <h1 id="SubTitulo"> SubTitulo</h1>
+
+CONTEUDO 
+    <p  class="texto"> Conteúdo da Página </p>
+
+IMAGENS
+    <img src="../../fotos/IMG-20161111-WA0001.jpg"> 
+
+REFERENCIAS DA IMAGEM
+    <p id="referencia"> Referencia da imagem acima</p>
+
+BOTÃO VOLTAR
+    <div id="divvoltar"> <a href="Conteudos1tri.html" id="voltar"> VOLTAR </a> </div>
+
+    
