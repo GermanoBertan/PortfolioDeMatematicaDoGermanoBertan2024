@@ -55,7 +55,8 @@
     padding: 6px;
 }
 .conteudoPagina{
-    padding: 8px;
+    padding: 10px;
+    margin: 10px;
 }
 #apresentacao{
     font-size: 18px;
@@ -115,4 +116,12 @@
 img{
     height: 100%;
     width: 100%;
+}
+#img50{
+    height: 100%;
+    width: 50%;
+}
+#img30{
+    height: 100%;
+    width: 30%;
 }
