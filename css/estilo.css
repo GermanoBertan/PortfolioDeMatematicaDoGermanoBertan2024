@@ -125,3 +125,15 @@ img{
     height: 100%;
     width: 30%;
 }
+.laranja{
+    color: rgb(255, 145, 0);
+}
+.azul{
+    color: blue;
+}
+.rosa{
+    color: rgb(238, 34, 102);
+}
+.verde{
+    color: green;
+}
